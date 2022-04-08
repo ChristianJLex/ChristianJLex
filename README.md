@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianJLex
-- This repo primarily consists of LaTeX source code for my teaching notes.
+- My repos primarily consists of LaTeX source code for my teaching notes.
 
 
 <!---
